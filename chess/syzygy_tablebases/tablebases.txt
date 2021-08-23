@@ -1,0 +1,1 @@
+Syzygy tablebases can be downloaded and placed inside this folder.

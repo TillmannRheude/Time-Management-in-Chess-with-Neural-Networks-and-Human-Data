@@ -1,0 +1,6 @@
+https://database.lichess.org/standard/lichess_db_standard_rated_2020-08.pgn.bz2
+https://database.lichess.org/standard/lichess_db_standard_rated_2020-07.pgn.bz2
+https://database.lichess.org/standard/lichess_db_standard_rated_2020-04.pgn.bz2
+https://database.lichess.org/standard/lichess_db_standard_rated_2020-03.pgn.bz2
+https://database.lichess.org/standard/lichess_db_standard_rated_2020-02.pgn.bz2
+https://database.lichess.org/standard/lichess_db_standard_rated_2020-01.pgn.bz2

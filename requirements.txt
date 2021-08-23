@@ -1,0 +1,9 @@
+matplotlib
+numpy
+python-chess
+rtpt
+sklearn
+joblib
+zarr
+numcodecs
+pytorch

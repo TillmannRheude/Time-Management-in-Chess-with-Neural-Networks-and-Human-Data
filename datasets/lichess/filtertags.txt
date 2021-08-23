@@ -1,0 +1,3 @@
+TimeControl = "60+0"
+WhiteElo >= "2000"
+BlackElo >= "2000"
