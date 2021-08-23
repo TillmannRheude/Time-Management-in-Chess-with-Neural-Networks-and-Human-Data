@@ -73,7 +73,7 @@ Supervisor at TU Darmstadt: Johannes Czech
 
 ## License
 
-This project is not licensed yet.
+MIT License
 
 ## Acknowledgments
 
