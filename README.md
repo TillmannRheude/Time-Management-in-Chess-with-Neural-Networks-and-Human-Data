@@ -3,7 +3,7 @@
 
 <p align="center">  
   Student research project in cooperation with TU Darmstadt. <br> 
-  Written project submission with a detailed explanation of the methods used can be found on the homepage of <a href="https://ml-research.github.io/">AIML</a> soon. 
+  Written project submission with a detailed explanation of the methods used can be found on the homepage of <a href="https://ml-research.github.io/papers/rheude2021time.pdf">AIML</a> now. 
 </p>
 
 <p align="center">
